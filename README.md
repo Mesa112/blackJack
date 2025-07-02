@@ -11,7 +11,7 @@
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
 [![Stars](https://img.shields.io/github/stars/yourusername/blackjack-simulator?style=for-the-badge)](https://github.com/yourusername/blackjack-simulator/stargazers)
 
-[**🎮 Download Latest Release**](https://github.com/yourusername/blackjack-simulator/releases/latest) • [**📖 Documentation**](docs/) • [**🐛 Report Bug**](https://github.com/yourusername/blackjack-simulator/issues) • [**💡 Request Feature**](https://github.com/yourusername/blackjack-simulator/issues)
+[**🎮 Download Latest Release**](https://github.com/Mesa112/blackJack/releases/tag/v1.0) • [**📖 Documentation**](https://github.com/Mesa112/blackJack#readme) • [**🐛 Report Bug**](https://github.com/Mesa112/blackJack/issues) • [**💡 Request Feature**](https://github.com/Mesa112/blackJack/issues)
 
 </div>
 
@@ -79,7 +79,7 @@ make
 <div align="center">
 
 ### 🎮 Main Game Interface
-![Main Game](screenshots/main-game.png)
+![Main Game](https://github.com/Mesa112/blackJack/blob/main/images/Screenshot%202025-07-01%20at%203.04.27%E2%80%AFPM.png)
 *Professional dealer interface with real-time statistics*
 
 </div>
@@ -303,7 +303,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [![Download](https://img.shields.io/badge/Download-Latest%20Release-success?style=for-the-badge&logo=download)](https://github.com/yourusername/blackjack-simulator/releases/latest)
 [![Star](https://img.shields.io/badge/⭐-Star%20This%20Repo-yellow?style=for-the-badge)](https://github.com/yourusername/blackjack-simulator)
 
-**Built with ❤️ by passionate developers**
+
 
 [🐛 Report Issues](https://github.com/yourusername/blackjack-simulator/issues) • [💬 Discussions](https://github.com/yourusername/blackjack-simulator/discussions) • [📧 Contact](mailto:your.email@example.com)
 

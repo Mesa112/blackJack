@@ -11,7 +11,7 @@
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
 [![Stars](https://img.shields.io/github/stars/yourusername/blackjack-simulator?style=for-the-badge)](https://github.com/yourusername/blackjack-simulator/stargazers)
 
-[**🎮 Download Latest Release**](https://github.com/yourusername/blackjack-simulator/releases/latest) • [**📖 Documentation**](docs/) • [**🐛 Report Bug**](https://github.com/yourusername/blackjack-simulator/issues) • [**💡 Request Feature**](https://github.com/yourusername/blackjack-simulator/issues)
+[**🎮 Download Latest Release**](https://github.com/Mesa112/blackJack/releases/tag/v1.0) • [**📖 Documentation**](https://github.com/Mesa112/blackJack#readme) • [**🐛 Report Bug**](https://github.com/Mesa112/blackJack/issues) • [**💡 Request Feature**](https://github.com/Mesa112/blackJack/issues)
 
 </div>
 

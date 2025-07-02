@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Blackjack Logo](https://github.com/Mesa112/blackJack/blob/main/images/images.png)
+![Blackjack Logo](https://github.com/Mesa112/blackJack/blob/main/images/blackjack-hand-spades-black-jack-600nw-2122961363.jpg.png)
 
 **A professional casino-style blackjack game with advanced card counting and strategy training**
 

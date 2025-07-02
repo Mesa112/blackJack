@@ -233,7 +233,7 @@ Detailed performance tracking with strategy accuracy monitoring
 
 <div align="center">
 
-![Performance Chart](screenshots/performance-chart.png)
+![Performance Chart](https://github.com/Mesa112/blackJack/blob/main/images/Screenshot%202025-07-02%20at%202.20.30%E2%80%AFPM.png)
 *Track your improvement over time*
 
 </div>

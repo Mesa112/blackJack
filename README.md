@@ -79,7 +79,7 @@ make
 <div align="center">
 
 ### 🎮 Main Game Interface
-![Main Game](screenshots/main-game.png)
+![Main Game](https://github.com/Mesa112/blackJack/blob/main/images/Screenshot%202025-07-01%20at%203.04.27%E2%80%AFPM.png)
 *Professional dealer interface with real-time statistics*
 
 </div>

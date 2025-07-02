@@ -303,7 +303,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [![Download](https://img.shields.io/badge/Download-Latest%20Release-success?style=for-the-badge&logo=download)](https://github.com/yourusername/blackjack-simulator/releases/latest)
 [![Star](https://img.shields.io/badge/⭐-Star%20This%20Repo-yellow?style=for-the-badge)](https://github.com/yourusername/blackjack-simulator)
 
-**Built with ❤️ by passionate developers**
+
 
 [🐛 Report Issues](https://github.com/yourusername/blackjack-simulator/issues) • [💬 Discussions](https://github.com/yourusername/blackjack-simulator/discussions) • [📧 Contact](mailto:your.email@example.com)
 
